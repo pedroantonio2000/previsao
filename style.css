@@ -23,17 +23,13 @@ body {
 
 
 .container {
-    /* background-color: #5c54ed; */
-    /* background-color: #2b282898; */
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     padding: 2rem;
     color: #fdfdfd;
     border-radius: 1rem;
     max-width: 400px;
-    /* min-width: 400px; */
     backdrop-filter: blur(8px);
     
-
 }
 
 .form h3 {
@@ -186,7 +182,7 @@ body {
     background-color: #7ce1fd;
 }
 
-@media (max-width: 420px) {
+/* @media (max-width: 420px) {
     #suggestions button {
        min-width: 120px;
        width: 7rem;
@@ -200,4 +196,4 @@ body {
     .form h3 {
         font-size: 1.1rem;
     }
-}
+} */
