@@ -3,15 +3,11 @@
         height: 130vh;
     }
     .container {
-       
         max-width: 590px;
-        
         
     }
 
     #suggestions button {
         min-width: 120px;
-    }
-
-    
+    }   
 }

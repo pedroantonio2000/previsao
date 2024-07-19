@@ -1,4 +1,4 @@
-@media screen and (max-width: 360px) and (orientation: portrait)   {
+@media screen and (max-width: 480px) and (orientation: portrait)   {
     .container {
        margin-right: 0.1rem;
        margin-left: 0.1rem;
